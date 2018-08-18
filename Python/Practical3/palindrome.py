@@ -10,6 +10,6 @@ for i in lst:
         continue
     revinpt=revinpt+i
 if inpt==revinpt:
-    print("Given number or string is a palindrome.")
+    print("\nGiven number or string is a palindrome.")
 else:
-    print("Given number or string is not a palindrome.")
+    print("\nGiven number or string is not a palindrome.")
