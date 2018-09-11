@@ -13,4 +13,4 @@ for i in inpt:
         ocount=ocount+1
     elif i=="u":
         ucount=ucount+1
-print("\nCount of Vowels:\nA: {0}\nE: {1}\nI: {2}\nO: {3}\nU: {4}".format(acount,ecount,icount,ocount,ucount))
+print("\nCount of Vowels:\nA: {0}\nE: {1}\nI: {2}\nO: {3}\nU: {5}".format(acount,ecount,icount,ocount,ucount))
